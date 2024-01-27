@@ -2,4 +2,4 @@ Kabel LAN, sebuah inovasi teknologi yang mungkin sering kali terabaikan namun me
 
 Kabel LAN, atau Local Area Network Cable, adalah jaringan kabel yang menghubungkan perangkat-perangkat komputer dalam sebuah area terbatas seperti kantor, sekolah, atau rumah. Meskipun sering kali tidak mencuri perhatian seperti teknologi nirkabel, kabel LAN tetap menjadi fondasi yang kokoh dalam memastikan transfer data yang cepat, stabil, dan aman.
 
-Dalam pengantar ini, kita akan menjelajahi lebih dalam tentang berbagai jenis kabel LAN, manfaatnya, serta bagaimana kabel ini berperan dalam membangun infrastruktur jaringan yang handal. Mari kita mulai perjalanan kita dalam memahami keajaiban sederhana namun penting ini: kabel LAN.
+Dalam pengantar ini, kita akan menjelajahi lebih dalam tentang berbagai jenis kabel LAN, manfaatnya, serta bagaimana kabel ini berperan dalam membangun infrastruktur jaringan yang handal. Mari kita mulai perjalanan kita dalam memahami keajaiban sederhana namun penting ini.
