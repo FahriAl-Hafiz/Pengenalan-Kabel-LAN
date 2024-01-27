@@ -3,7 +3,45 @@ Kabel LAN memiliki beberapa macam konfigurasi , diantaranya Straight,Cross,rollo
 Disini kita hanya akan menggunakan straight dan Cross untuk konfigurasinya.
 
 1.pertama siapkan kabel Utp (Unshielded Twisted Pair).
+<gambar>
+
 2.tang crimping tool
+<gambar>
+
 3.RJ_45.
-<hr>
+<gambar>
+
+Sebelum melakukan konfigurasi kabel , kita akan memahami dulu urutan warna dari kabel straight dan cross.
+
+  *Straight, memiliki Urutan Warna :
+
+      -Putih – Oranye.
+      -Oranye.
+      -Putih – Hijau.
+      -Biru.
+      -Putih – Biru.
+      -Hijau. 
+      -Putih – Coklat. 
+      -Coklat.
+
+  *Cross, Memiliki kedua ujung yang berbeda :
+      Ujung Cross 1 :  
+      Putih – Oranye.
+      Oranye. 
+      Putih – Hijau. 
+      Biru.
+      Putih – Biru. 
+      Hijau. 
+      Putih – Coklat.
+      Coklat.
+
+      Ujung Cross 2 :
+      Putih – Hijau. 
+      Hijau. 
+      Putih – Oranye. 
+      Biru.
+      Putih – Biru. 
+      Oranye.
+      Putih – Coklat.
+      Coklat.
 
