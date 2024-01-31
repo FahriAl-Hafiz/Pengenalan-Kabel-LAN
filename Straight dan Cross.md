@@ -3,7 +3,7 @@ Kabel LAN memiliki beberapa macam konfigurasi , diantaranya Straight,Cross,rollo
 Disini kita hanya akan menggunakan straight dan Cross untuk konfigurasinya.
 
 1.pertama siapkan kabel Utp (Unshielded Twisted Pair).
-<img src="![WhatsApp Image 2024-01-27 at 12 17 31](https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/081c2ed1-a99a-43fd-8f5f-169a83a2e79c)
+<img src="https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/081c2ed1-a99a-43fd-8f5f-169a83a2e79c
 " width=50& height=50% >
 
 
