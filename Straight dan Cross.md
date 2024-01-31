@@ -3,16 +3,20 @@ Kabel LAN memiliki beberapa macam konfigurasi , diantaranya Straight,Cross,rollo
 Disini kita hanya akan menggunakan straight dan Cross untuk konfigurasinya.
 
 1.pertama siapkan kabel Utp (Unshielded Twisted Pair).
-<img src="https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/081c2ed1-a99a-43fd-8f5f-169a83a2e79c
-" width=50& height=50% >
+
+<img src="https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/fcb7bcea-e805-4b48-9933-fde1896a4a67" width=50% height=50%>
 
 
 2.tang crimping tool
-![WhatsApp Image 2024-01-31 at 08 52 18](https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/48690bf1-1b49-453c-adb4-c46dc0df52a7)
+
+<img src="https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/48690bf1-1b49-453c-adb4-c46dc0df52a7" width=50% height=50%>
+
 
 
 3.RJ_45.
-<gambar>
+
+<img src = "https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/9fb1363a-c849-4c3b-8178-1dacadc8a4a8" width=50% height=50%>
+
 
 4.tester
 < >
@@ -31,25 +35,25 @@ Sebelum melakukan konfigurasi kabel , kita akan memahami dulu urutan warna dari 
       -Coklat.
 
   *Cross, Memiliki kedua ujung yang berbeda :
-      Ujung Cross 1 :  
-      Putih – Oranye.
-      Oranye. 
-      Putih – Hijau. 
-      Biru.
-      Putih – Biru. 
-      Hijau. 
-      Putih – Coklat.
-      Coklat.
+      -Ujung Cross 1 :  
+      -Putih – Oranye.
+      -Oranye. 
+      -Putih – Hijau. 
+      -Biru.
+      -Putih – Biru. 
+      -Hijau. 
+      -Putih – Coklat.
+      -Coklat.
 
       Ujung Cross 2 :
-      Putih – Hijau. 
-      Hijau. 
-      Putih – Oranye. 
-      Biru.
-      Putih – Biru. 
-      Oranye.
-      Putih – Coklat.
-      Coklat.
+      -Putih – Hijau. 
+      -Hijau. 
+      -Putih – Oranye. 
+      -Biru.
+      -Putih – Biru. 
+      -Oranye.
+      -Putih – Coklat.
+      -Coklat.
 
 Sekarang kita akan membuat kabel straight terlebih dahulu.
 
@@ -67,7 +71,8 @@ jika sudah dipastikan masuk semua dan tidak miring atau tidak rata , kunci rj de
 
 test kabel dengan tester , jika semua lampu hidup berurutan , maka kita telah berhasil mengkonfigurasikan kabel straight.
 
-<gambar>
+<img src ="https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/e9ecd45d-c78a-4620-8804-b5dae84251bf" width=50% height=50%>
+
 
 Selanjutnya kita akan mengkonfigurasi kabel crossover,
 
@@ -77,7 +82,7 @@ untuk perangkaian kabel nya sama seperti sebelumnya saat kita mengkonfigurasi ka
 
 jika sudah lakukan testing , jika lampu hidup dengan tidak berurutan maka telah berhasil.
 
-<gambar>
+<img src ="https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/4ff7ce9c-144b-4985-9cfd-05d721fa2839" width=50% height=50%>
 
 selanjutnya dapat kita tes langsung ke laptop atau pc , untuk menghubungkan ke router dan melakukan tes koneksi seperti ping.
 
