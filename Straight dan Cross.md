@@ -19,7 +19,7 @@ Disini kita hanya akan menggunakan straight dan Cross untuk konfigurasinya.
 
 
 4.tester
-< >
+<img src = "https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/450b1038-fcc2-4dfc-a874-25850a9cab76 width=50% height=50%">
 
 Sebelum melakukan konfigurasi kabel , kita akan memahami dulu urutan warna dari kabel straight dan cross.
 
@@ -65,7 +65,8 @@ pisahkan terlebih dahulu sebelum merangkai warna,setelah itu rapikan warna sesua
 
 masukan ke dalam Rj ,sesuai dengan urutan dan pastikan untuk ujung dari setiap kabel menyentuh ukung pin dari RJ.
 
-< gambar >
+< img src= "https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/4bcd1100-8e26-4ea8-8e98-d4d63ca79d6f" width=50% height=50%>
+
 
 jika sudah dipastikan masuk semua dan tidak miring atau tidak rata , kunci rj dengan tang crimping,ulangi untuk bagian ujung satunya.
 
