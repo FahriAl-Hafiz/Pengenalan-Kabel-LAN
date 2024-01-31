@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-01-31 at 08 52 18](https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/90ea2598-73dd-427d-bc46-6dbe110ffb71)Kabel LAN memiliki beberapa macam konfigurasi , diantaranya Straight,Cross,rollover dan console_cable.
+Kabel LAN memiliki beberapa macam konfigurasi , diantaranya Straight,Cross,rollover dan console_cable.
 
 Disini kita hanya akan menggunakan straight dan Cross untuk konfigurasinya.
 
