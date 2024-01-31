@@ -60,9 +60,13 @@ pisahkan terlebih dahulu sebelum merangkai warna,setelah itu rapikan warna sesua
 
 masukan ke dalam Rj ,sesuai dengan urutan dan pastikan untuk ujung dari setiap kabel menyentuh ukung pin dari RJ.
 
+< gambar >
+
 jika sudah dipastikan masuk semua dan tidak miring atau tidak rata , kunci rj dengan tang crimping,ulangi untuk bagian ujung satunya.
 
 test kabel dengan tester , jika semua lampu hidup berurutan , maka kita telah berhasil mengkonfigurasikan kabel straight.
+
+<gambar>
 
 Selanjutnya kita akan mengkonfigurasi kabel crossover,
 
@@ -71,6 +75,8 @@ sesuai dengan deskripsi di awal maka kita akan membuat ujung 1 dan ujung lainnya
 untuk perangkaian kabel nya sama seperti sebelumnya saat kita mengkonfigurasi kabel straight.
 
 jika sudah lakukan testing , jika lampu hidup dengan tidak berurutan maka telah berhasil.
+
+<gambar>
 
 selanjutnya dapat kita tes langsung ke laptop atau pc , untuk menghubungkan ke router dan melakukan tes koneksi seperti ping.
 
