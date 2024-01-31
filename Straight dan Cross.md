@@ -1,12 +1,14 @@
-Kabel LAN memiliki beberapa macam konfigurasi , diantaranya Straight,Cross,rollover dan console_cable.
+![WhatsApp Image 2024-01-31 at 08 52 18](https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/90ea2598-73dd-427d-bc46-6dbe110ffb71)Kabel LAN memiliki beberapa macam konfigurasi , diantaranya Straight,Cross,rollover dan console_cable.
 
 Disini kita hanya akan menggunakan straight dan Cross untuk konfigurasinya.
 
 1.pertama siapkan kabel Utp (Unshielded Twisted Pair).
+![WhatsApp Image 2024-01-27 at 12 17 31](https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/081c2ed1-a99a-43fd-8f5f-169a83a2e79c)
 
 
 2.tang crimping tool
-<gambar>
+![WhatsApp Image 2024-01-31 at 08 52 18](https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/48690bf1-1b49-453c-adb4-c46dc0df52a7)
+
 
 3.RJ_45.
 <gambar>
@@ -59,6 +61,18 @@ pisahkan terlebih dahulu sebelum merangkai warna,setelah itu rapikan warna sesua
 masukan ke dalam Rj ,sesuai dengan urutan dan pastikan untuk ujung dari setiap kabel menyentuh ukung pin dari RJ.
 
 jika sudah dipastikan masuk semua dan tidak miring atau tidak rata , kunci rj dengan tang crimping,ulangi untuk bagian ujung satunya.
+
+test kabel dengan tester , jika semua lampu hidup berurutan , maka kita telah berhasil mengkonfigurasikan kabel straight.
+
+Selanjutnya kita akan mengkonfigurasi kabel crossover,
+
+sesuai dengan deskripsi di awal maka kita akan membuat ujung 1 dan ujung lainnya dengan berbeda urutan.
+
+untuk perangkaian kabel nya sama seperti sebelumnya saat kita mengkonfigurasi kabel straight.
+
+jika sudah lakukan testing , jika lampu hidup dengan tidak berurutan maka telah berhasil.
+
+selanjutnya dapat kita tes langsung ke laptop atau pc , untuk menghubungkan ke router dan melakukan tes koneksi seperti ping.
 
 
 
