@@ -19,7 +19,8 @@ Disini kita hanya akan menggunakan straight dan Cross untuk konfigurasinya.
 
 
 4.tester
-<img src = "https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/450b1038-fcc2-4dfc-a874-25850a9cab76 width=50% height=50%">
+
+<img src="https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/450b1038-fcc2-4dfc-a874-25850a9cab76" width=50% height=50%>
 
 Sebelum melakukan konfigurasi kabel , kita akan memahami dulu urutan warna dari kabel straight dan cross.
 
@@ -65,15 +66,15 @@ pisahkan terlebih dahulu sebelum merangkai warna,setelah itu rapikan warna sesua
 
 masukan ke dalam Rj ,sesuai dengan urutan dan pastikan untuk ujung dari setiap kabel menyentuh ukung pin dari RJ.
 
-< img src= "https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/4bcd1100-8e26-4ea8-8e98-d4d63ca79d6f" width=50% height=50%>
+<img src="https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/5ed89b29-2dd7-44c3-9e95-ac96a2fb2a86" width=50% height=50%>
+
 
 
 jika sudah dipastikan masuk semua dan tidak miring atau tidak rata , kunci rj dengan tang crimping,ulangi untuk bagian ujung satunya.
 
 test kabel dengan tester , jika semua lampu hidup berurutan , maka kita telah berhasil mengkonfigurasikan kabel straight.
 
-<img src ="https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/e9ecd45d-c78a-4620-8804-b5dae84251bf" width=50% height=50%>
-
+<img src="https://github.com/FahriAl-Hafiz/Pengenalan-Kabel-LAN/assets/126375451/e9ecd45d-c78a-4620-8804-b5dae84251bf" width=50% height=50%>
 
 Selanjutnya kita akan mengkonfigurasi kabel crossover,
 
